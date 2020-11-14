@@ -1,0 +1,1 @@
+I was able to make the website more simple for someone to locate specific HTML
